@@ -1,0 +1,1 @@
+Educational project from Odin covering very basics of HTML.
